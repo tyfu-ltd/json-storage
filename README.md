@@ -5,8 +5,14 @@ JsonStorage is a simple (and not thread safe, yet) document storage mechanisame 
 JsonStorage is not a fully fledged Database, but a simple way of storing and retrieving classes from within a wp7 application. Its a prefect way of saving and query a small set of data, in the 100's of MB. If you need to store and retrive GB's of data you will need to look elsewhere.
 
 
+## WARRENTY & RIGHTS
 
-## getting started
+JsonStorage comes with no warrenty. You use this project at your own risk. tyfu ltd takes no responsibilty for any loss or damage caused by using JsonStorage. 
+
+You are free to use this project in your own app or project for free and to make any changes to the source code as you see fit, but tyfu ltd retains full rights to JsonStorage and its source code.
+
+
+## Getting Started
 
 1. Download the JsonStorage project and Built it and then reference it within your application.
 2. Register the classes you want to save with JsonStorage
